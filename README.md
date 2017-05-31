@@ -1,6 +1,12 @@
 # Night Owls Detector
 
-[TODO. There will be project description]
+For get user names who sending tasks after midnight just run script.
+
+```
+python seek_dev_nighters.py
+```
+
+You need install packages from requirements.txt - better in virtual env.
 
 # Project Goals
 
