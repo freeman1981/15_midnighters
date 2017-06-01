@@ -21,7 +21,7 @@ def load_attempts():
             }
 
 
-def get_midnighters():
+def show_midnighters():
     header = 'Users who sends tasks after midnight before early morning'
     print(header)
     print('-' * len(header))
@@ -37,4 +37,4 @@ def get_midnighters():
             username_set.add(record['username'])
 
 if __name__ == '__main__':
-    get_midnighters()
+    show_midnighters()
