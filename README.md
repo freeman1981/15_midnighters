@@ -1,6 +1,6 @@
 # Night Owls Detector
 
-For get user names who sending tasks after midnight just run script.
+To get user names who sending tasks after midnight just run script.
 
 ```
 python seek_dev_nighters.py
